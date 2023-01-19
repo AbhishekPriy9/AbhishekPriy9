@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhishekPriy9
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning php
+- 🌱 I’m a php developer
 - 💞️ I’m looking to collaborate on web development
 - 📫 You can contact me on telegram @TheHunter_95
 
