@@ -62,8 +62,9 @@ One-to-one teacher–student platform. Admin assignment system, **payment gatewa
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary.com/api/profile-details?username=AbhishekPriy9&theme=dark&show_icons=true)
-![Top Languages](https://github-profile-summary.com/api/top-langs?username=AbhishekPriy9&layout=compact&theme=dark&hide_border=true)
+![Followers](https://img.shields.io/github/followers/AbhishekPriy9?style=for-the-badge&logo=github&logoColor=white&label=Followers)
+![Stars](https://img.shields.io/github/stars/AbhishekPriy9?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars)
+![Profile](https://img.shields.io/badge/GitHub-AbhishekPriy9-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/AbhishekPriy9)
 
 ---
 
