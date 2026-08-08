@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/abhishek-priy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/AbhishekPriy20"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://abhishek-priy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="mailto:abhishekpriy9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:abhishekpriy2010@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=AbhishekPriy9&label=Profile+Views&color=6EE7B7&style=flat" alt="profile views" />
