@@ -27,7 +27,6 @@ I build **scalable backend systems** and **high-performance web applications** w
 - **15+ projects** — B2B SaaS, HRIS, LMS, booking systems, marketplaces
 - Deep with **REST APIs · MySQL · Redis · Queues · AWS S3 · WebSockets**
 - Currently exploring **AI integrations** and **real-time notification systems**
-- Working on **People-core** — a full-featured HRIS SaaS platform
 
 ---
 
