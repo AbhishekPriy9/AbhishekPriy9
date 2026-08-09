@@ -112,14 +112,6 @@ Admin assignment system, payment gateway for course purchases, and Zoom API inte
 
 `Laravel` `MySQL` `Zoom API` `Payment Gateway` `LMS`
 
----
-
-### People-core — HRIS SaaS (Active)
-> Full-featured Human Resource Information System
-
-Currently the most active project — building HR management, payroll, attendance, and employee lifecycle management as a SaaS platform.
-
-`Laravel` `PHP` `SaaS` `HRIS` `MySQL` `REST API`
 
 ---
 
